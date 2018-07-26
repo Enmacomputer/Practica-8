@@ -1,0 +1,7 @@
+c:\users\enman\source\repos\practica8\practica8\bin\Debug\practica8.exe.config
+c:\users\enman\source\repos\practica8\practica8\bin\Debug\practica8.exe
+c:\users\enman\source\repos\practica8\practica8\bin\Debug\practica8.pdb
+c:\users\enman\source\repos\practica8\practica8\obj\Debug\practica8.csprojAssemblyReference.cache
+c:\users\enman\source\repos\practica8\practica8\obj\Debug\practica8.csproj.CoreCompileInputs.cache
+c:\users\enman\source\repos\practica8\practica8\obj\Debug\practica8.exe
+c:\users\enman\source\repos\practica8\practica8\obj\Debug\practica8.pdb
